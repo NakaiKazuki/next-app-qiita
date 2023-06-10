@@ -6,6 +6,4 @@ next-app/next-env.d.ts
 # Gihubに上げる場合以下追加
 .gitignore
 .git
-LICENSE.md
-Readme.md
 next-app/.gitignore

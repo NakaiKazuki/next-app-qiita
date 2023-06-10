@@ -1,4 +1,4 @@
-FROM node:18.16-alpine3.17
+FROM node:18.16-alpine3.18
 
 ENV APP_ROOT /node/next-app
 

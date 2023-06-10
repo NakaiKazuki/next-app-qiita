@@ -3,10 +3,9 @@ next-app/node_modules
 next-app/.next
 next-app/next-env.d.ts
 
-# Gihubに上げる場合以下コメントアウト
+# Gihubに上げる場合以下追加
 next-app/.gitignore
 .gitignore
 .git
-
 LICENSE.md
 Readme.md
